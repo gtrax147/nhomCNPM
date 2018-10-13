@@ -5,3 +5,4 @@ xoa khach hang
 xoa nhan vien
 xoa ung dung he thong
 uy quyen truy cap
+huy toan bo
