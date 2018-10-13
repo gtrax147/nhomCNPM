@@ -1,0 +1,12 @@
+features
+
+
+dat phong
+doi
+tra phong
+huy dat phong
+them thong tin khach hang
+sua thong tin khach hang
+xoa/an thong tin khach hang
+thanh toan hoa don
+tien luong nhan vien
