@@ -2,8 +2,6 @@ features for mobile
 
 
 dat phong
-doi
-tra phong
 huy dat phong
 them thong tin khach hang
 sua thong tin khach hang
