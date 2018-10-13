@@ -1,4 +1,4 @@
-features
+features for embed system
 
 
 dat phong
@@ -7,8 +7,9 @@ tra phong
 huy dat phong
 them thong tin khach hang
 sua thong tin khach hang
-xoa/an thong tin khach hang
-thanh toan hoa don
+lap hoa don
 check thong tin phong
 don phong
 tien luong nhan vien
+goi thuc an
+goi nuoc uong
