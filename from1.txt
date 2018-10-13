@@ -10,4 +10,5 @@ sua thong tin khach hang
 xoa/an thong tin khach hang
 thanh toan hoa don
 check thong tin phong
+don phong
 tien luong nhan vien
