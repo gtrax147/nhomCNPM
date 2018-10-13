@@ -13,3 +13,5 @@ don phong
 tien luong nhan vien
 goi thuc an
 goi nuoc uong
+goi nhan vien chuyen do
+goi massage
