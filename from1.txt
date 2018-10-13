@@ -9,3 +9,5 @@ them thong tin khach hang
 sua thong tin khach hang
 check thong tin phong
 don phong
+dat thuc an
+dat nuoc uong
