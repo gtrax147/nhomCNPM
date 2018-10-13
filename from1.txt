@@ -12,3 +12,5 @@ thanh toan hoa don
 check thong tin phong
 don phong
 tien luong nhan vien
+them nhan vien
+sua thong tin nhan vien
