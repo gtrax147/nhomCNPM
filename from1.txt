@@ -1,16 +1,7 @@
-features
+features for admin
 
 
-dat phong
-doi
-tra phong
-huy dat phong
-them thong tin khach hang
-sua thong tin khach hang
-xoa/an thong tin khach hang
-thanh toan hoa don
-check thong tin phong
-don phong
-tien luong nhan vien
-them nhan vien
-sua thong tin nhan vien
+xoa khach hang
+xoa nhan vien
+xoa ung dung he thong
+uy quyen truy cap
